@@ -52,7 +52,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con interés en el desarr
 
 - 📧 **Correo:** gerson.dallyn@gmail.com  
 - 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/gerson-dallyn-paredes-espino-941629237/
+  www.linkedin.com/in/gerson-dallyn-paredes
 
 ---
 
