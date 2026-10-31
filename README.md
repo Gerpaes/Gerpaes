@@ -4,7 +4,7 @@ Desarrollador web que combina **comunicación y programación**, un perfil que m
 
 Trabajo con **Symfony, PHP, PostgreSQL y Tailwind CSS**, con base en JavaScript, y estoy ampliando mi stack con Laravel y TypeScript. Desarrollo desde cero y sobre plataformas como **PrestaShop** y **n8n**, con experiencia en automatización para distintos sectores.
 
-Comprometido, fiable y con experiencia en el área LATAM, me adapto con facilidad al trabajo en equipo y por proyectos. **Abierto a posiciones de Junior Developer.**
+Comprometido y fiable, me adapto con facilidad al trabajo en equipo y por proyectos. **Abierto a posiciones de Junior Developer.**
 
 ---
 
