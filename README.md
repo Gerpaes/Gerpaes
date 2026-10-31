@@ -12,7 +12,7 @@ Comprometido y fiable, me adapto con facilidad al trabajo en equipo y por proyec
 
 - **[API Nurses](https://github.com/Gerpaes/M0616-Nurses)** — API REST en Symfony para gestión de enfermeros. Lidero el equipo de desarrollo.
 - **[SPARK](https://github.com/natylimonchy/SPARK)** — Web en PHP con arquitectura MVC y PDO, desarrollada en equipo con flujo de ramas y pull requests.
-- **[Arte y Crochet](https://github.com/Gerpaes/Arte-y-Crochet)** — Tienda online real en PrestaShop con Docker, tema hijo personalizado y módulo propio. *(En desarrollo)*
+- **[Arte y Crochet](https://github.com/Gerpaes/Arte-y-Crochet)** — Tienda online real en PrestaShop con Docker, child theme de Hummingbird y módulo propio. *(En desarrollo)*
 
 ---
 
