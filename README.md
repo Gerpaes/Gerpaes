@@ -1,14 +1,16 @@
 # Hola, soy Gerson Paredes 👋
 
-**Estudiante de DAW en busca de mi primer puesto como Desarrollador Web Junior**, con foco en backend (PHP y Symfony), bases de datos y entornos con Docker y Linux.
+Desarrollador web que combina **comunicación y programación**, un perfil que me aporta un carácter diferencial.
 
-Vengo del mundo comercial, así que sé escuchar al cliente y explicar lo técnico de forma sencilla.
+Trabajo con **Symfony, PHP, PostgreSQL y Tailwind CSS**, con base en JavaScript, y estoy ampliando mi stack con Laravel y TypeScript. Desarrollo desde cero y sobre plataformas como **PrestaShop** y **n8n**, con experiencia en automatización para distintos sectores.
+
+Comprometido, fiable y con experiencia en el área LATAM, me adapto con facilidad al trabajo en equipo y por proyectos. **Abierto a posiciones de Junior Developer.**
 
 ---
 
 ## 🚀 Proyectos destacados
 
-- **[API Nurses](https://github.com/Gerpaes/M0616-Nurses)** — API REST en Symfony para gestión de enfermeros. Proyecto intermodular de DAW en el que soy **líder del grupo**.
+- **[API Nurses](https://github.com/Gerpaes/M0616-Nurses)** — API REST en Symfony para gestión de enfermeros. Lidero el equipo de desarrollo.
 - **[SPARK](https://github.com/natylimonchy/SPARK)** — Web en PHP con arquitectura MVC y PDO, desarrollada en equipo con flujo de ramas y pull requests.
 - **[Arte y Crochet](https://github.com/Gerpaes/Arte-y-Crochet)** — Tienda online real en PrestaShop con Docker, tema hijo personalizado y módulo propio. *(En desarrollo)*
 
@@ -16,8 +18,8 @@ Vengo del mundo comercial, así que sé escuchar al cliente y explicar lo técni
 
 ## 💼 Ahora mismo
 
-- Prácticas en **3llideas**: pruebas y validación de una plataforma SaaS que integra tiendas online con otros sistemas (APIs y automatizaciones con n8n).
-- Cursando el 2.º año de **DAW** en Stucom (Barcelona).
+- Pruebas y validación de una plataforma SaaS que integra tiendas online con otros sistemas (APIs y automatizaciones con n8n).
+- Ampliando mi stack con TypeScript, Angular y Laravel.
 
 ---
 
